@@ -57,7 +57,7 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 
   # Active Model Serializers for building JSON APIs
-  gem 'active_model_serializers', '~> 0.10.0'
+  gem 'active_model_serializers', '~> 0.10.15'
 
   # Pagination for Active Record collections
   gem 'will_paginate', '~> 3.1.0'
